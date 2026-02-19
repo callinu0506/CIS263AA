@@ -2,6 +2,12 @@ Jessie Baker / JES2371614
 CIS263AA
 02/19/2026
 
-After researching and comparing features of different IDEs, I decided to use NetBeans.
+After researching and comparing features of different IDEs, I decided to use NetBeans.  Originally, I was 
+leaning toward IntelliJ but the school was not on the approved list for the free version and it would take
+several days for approval so I decided to pick either Eclipse or NetBeans.  A side by side comparison showed
+NetBeans had more advantages for me as a user, while Eclipse seemed more complicated and slow.  I wanted 
+less complexity, beginner friendly where I could focus more on learning Java, than trouble shooting new
+software.  Mostly, Java I labs were completed within Zybooks so it already feels a little bit like starting
+over by moving to strictly IDE.  NetBeans features seem the best fit for my comfort level.
 
 
