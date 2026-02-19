@@ -2,4 +2,16 @@ Jessie Baker / JES2371614
 CIS263AA
 02/19/2026
 
+Using GitHub to create a portfolio for job searches could be a useful benefit
+both to myself and future employers.  By adding completed projects to GitHub, I
+could measure my own growth and make wise choices about which roles I qualify
+for before applying.  Continually working on new projects and growing the 
+online portfolio is another way to stay current and increase knowledge.
 
+Having a well organized portfolio demonstrates to potential employers an ability
+to self manage, complete projects, and produce quality work.  It also shows
+how long it took to finish a program and how problem solving was achieved.  
+
+Companies have existing software and may require someone to handle maintenance 
+or work on a program started by someone else.  Collaborating on GitHub is a 
+real world way to demonstrate the ability to work on a team.
